@@ -5,7 +5,6 @@ import Menu from '@material-ui/core/Menu'
 import MenuItem from '@material-ui/core/MenuItem'
 import {
   usePopupState,
-  bindTrigger,
   bindMenu,
 } from 'material-ui-popup-state/hooks'
 
